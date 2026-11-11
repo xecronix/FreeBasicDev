@@ -1,0 +1,21 @@
+# FreeBASIC build outputs
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+.tiko/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
